@@ -1,0 +1,119 @@
+.logotipo {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 37px;
+    color: white;
+    text-decoration: none;
+}
+main{
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    color: #373A3C;
+}
+#navbarNavDropdown a {
+    color: white;
+    padding: 10px;
+}
+
+.principal {
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.principal button {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding: 10px 20px;
+    color: #373A3C;
+    font-size: 13px;
+}
+
+.principal img {
+    width: 100%;
+    max-width: 520px;
+}
+
+#titulo-principal {
+    text-align: justify;
+}
+
+.info-plato p {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: #373A3C;
+}
+
+.info-plato u {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #373A3C;
+}
+
+
+
+footer h1 {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: white;
+}
+
+footer h2 {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+
+}
+
+footer a {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.recetas-card h1 {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: #373A3C;
+}
+
+.suscribete {
+    background-color: #DC3545;
+    text-align: center;
+    padding: 200px 100px;
+}
+
+.card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #373A3C;
+}
